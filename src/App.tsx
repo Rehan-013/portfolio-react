@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import { AppRoutes } from './routes/AppRoutes';
+import  AppRoutes  from './routes/AppRoutes';
 // import './App.css';
 
 function App() {
